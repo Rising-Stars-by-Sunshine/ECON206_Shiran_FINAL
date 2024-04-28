@@ -11,7 +11,7 @@
 The GitHub Repository contains course materials and the final project for this course. The folders CSEcon and Advance_CSEcon contain my answers to problem sets. Others are materials for the final project.
 
 ## Table of Contents
-- Research Poster: TBC
+- Research Poster: [https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/ECON%20Poster.png](https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/ECON%20Poster.png)
 - Shared Overleaf: [https://www.overleaf.com/read/rnxtyyqfxyrn#35f262](https://www.overleaf.com/read/rnxtyyqfxyrn#35f262)
 - Compiled PDF: [https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.pdf](https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.pdf)
 - Overleaf Zip File: [https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.zip](https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.zip)
