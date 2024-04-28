@@ -13,8 +13,8 @@ The GitHub Repository contains course materials and the final project for this c
 ## Table of Contents
 - Research Poster: TBC
 - Shared Overleaf: [https://www.overleaf.com/read/rnxtyyqfxyrn#35f262](https://www.overleaf.com/read/rnxtyyqfxyrn#35f262)
-- Compiled PDF: TBC
-- Overleaf Zip File: TBC
+- Compiled PDF: [https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.pdf](https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.pdf)
+- Overleaf Zip File: [https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.zip](https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.zip)
 
 ## More About the Author
 ![Headshot]([url-to-headshot-image](https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/shiran_square.jpeg?raw=true))
