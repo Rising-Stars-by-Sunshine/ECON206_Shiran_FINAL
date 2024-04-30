@@ -17,7 +17,8 @@ The GitHub Repository contains course materials and the final project for this c
 - Overleaf Zip File: [https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.zip](https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/proposal/Shiran_ECON206_FINAL_Spring2024.zip)
 
 ## More About the Author
-![Headshot]([url-to-headshot-image](https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/blob/main/shiran_square.jpeg?raw=true))
+<p><img src="https://github.com/Rising-Stars-by-Sunshine/ECON206_Shiran_FINAL/assets/105504535/aaab1540-fff1-4cd4-b04a-bf6a9423d27c" width=300px></p>
+
 - **Self-Introduction**: Shiran Yuan is an undergraduate student at Duke Kunshan University. He mainly conducts research in Machine Learning, Computer Vision, and Artificial Intelligence. Personal homepage: [https://shiran-yuan.github.io/](https://shiran-yuan.github.io/).
 - **Final Reflections**: 
   - **Intellectual Growth**: I understood important concepts in game theory and economics.
